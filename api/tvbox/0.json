@@ -73,11 +73,11 @@
 {"name":"okjx","type":1,"url":"https://okjx.cc/?url="},
 {"name":"bozrc","type":1,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"ckmov","type":1,"url":"https://www.ckmov.vip/api.php?url="},
-{"name":"m3u8","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="}
-//{"name":"okjx","type":1,"url":"https://okjx.cc/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
-//{"name":"bozrc","type":1,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
-//{"name":"ckmov","type":1,"url":"https://www.ckmov.vip/api.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
-//{"name":"m3u8","type":1,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
+{"name":"m3u8","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"okjx_sx","type":1,"url":"https://okjx.cc/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"bozrc_sx","type":1,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"ckmov_sx","type":1,"url":"https://www.ckmov.vip/api.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"m3u8_sx","type":1,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
 
 ],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
